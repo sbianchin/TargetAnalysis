@@ -1,0 +1,10 @@
+*.so
+*.d
+*.pcm
+*.o
+*.csv
+*.txt
+*.in
+*mainC
+*.dat
+*.out
